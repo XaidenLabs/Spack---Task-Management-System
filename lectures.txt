@@ -1,0 +1,2 @@
+- Data structure is a mathematical representation of how datas is stored in the computer memory.
+
